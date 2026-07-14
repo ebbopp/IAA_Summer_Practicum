@@ -1,0 +1,7 @@
+realtor-data.zip.csv
+\zillow
+data_part*
+listings_zipcode.csv
+zillow.csv
+.DS_Store
+data/.DS_Store
