@@ -3,5 +3,6 @@ realtor-data.zip.csv
 data_part*
 listings_zipcode.csv
 zillow.csv
+zillow.csv.zip
 .DS_Store
 data/.DS_Store
